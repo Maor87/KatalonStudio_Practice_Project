@@ -56,7 +56,7 @@ Through this project, I learned:
 
 ## Practice Websites
 
-* **HealthCare practice websites:** Used various publicly available healthcare practice websites to test different functionalities relevant to the domain.
+* **HealthCare practice websites:** Used publicly available healthcare practice websites to test different functionalities relevant to the domain.
 * **OrangeHRM:** Utilized the open-source OrangeHRM platform to practice testing common HR management system features.
 
 ## Conclusion
